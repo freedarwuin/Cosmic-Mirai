@@ -26,31 +26,31 @@
 
 
 # README ♥️
-Thanks for using it.<br>
-Please help me press the STAR button thanks a lot<br>
-If you encounter any errors or problems during installation, please contact me to quickly fix it!!!
+Gracias por usarlo.<br>
+Por favor, ayúdenme a presionar el botón ESTRELLA, muchas gracias.<br>
+Si encuentra algún error o problema durante la instalación, comuníquese conmigo para solucionarlo rápidamente.
 
 
-# Setup
+# Configuración
 ```sh
 PLS DELETE FILE "DELETEME.txt" in loader/bins, dlr/release
 READ Setup.txt file
 ```
 
-# NOTE
+# NOTA
 ```sh
-How to add normal user?
-- Type command adduser
+¿Cómo agregar un usuario normal?
+- Escriba el comando adduser
 
-How to add admin user?
-1. Go to vps and type command mysql -u root -pYOURPASSWORD
-2. Type command use cosmic;
-3. Type command INSERT INTO users VALUES (NULL, 'adminx', 'adminpassword', 0, 0, 0, 0, -1, 1, 30, '');
+¿Cómo agregar un usuario administrador?
+1. Vaya a vps y escriba el comando mysql -u root -pYOURPASSWORD
+2. Escriba el comando use cosmic;
+3. Tipo de comando INSERT INTO users VALUES (NULL, 'adminx', 'adminpassword', 0, 0, 0, 0, -1, 1, 30, '');
 ```
 
 # TOS:
 ```sh
-What you use it for is up to you, we do not take any responsibility for this action
+Tú decides para qué lo utilizas, no asumimos ninguna responsabilidad por esta acción.
 ```
 
 # CONTACT:
