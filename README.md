@@ -1,8 +1,8 @@
 <div align=center>
  
-# 🚀 Cosmic - Mirai modified 🚀
+# 🚀 Cósmico - Mirai modificado 🚀
 
-# Store: https://condi.billgang.store/
+# Almacenar: https://condi.billgang.store/
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/Cosmic-Mirai?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -11,17 +11,17 @@
  
 </p>
 
-## Language</br>
+## Idioma</br>
 
  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
  </div>
  
- ## Logs</br>
- - NEW THEME!
- - ALL METHODS WORKING!
- - UPDATE ANY SELFREPS!
+ ## Registros</br>
+ - ¡NUEVO TEMA!
+ - ¡TODOS LOS MÉTODOS FUNCIONAN!
+ - ¡ACTUALIZA CUALQUIER AUTOREPRESENTACIÓN!
  
-## Screenshot
+## Captura de pantalla
 ![lk](https://i.ibb.co/Y2gH8Vp/neww.png)
 
 
